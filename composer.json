@@ -29,7 +29,7 @@
         }
     },
     "require": {
-        "php": "*",
+        "php": "^8.3",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-zlib": "*",
